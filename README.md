@@ -15,6 +15,6 @@ javascript:(()=>{if(window.location.href.includes("https://bandcamp.com/download
 
 ## Notes
 
-The bookmarklet is tested as working on Chrome and downloads tracks at a 5 second interval.
+The bookmarklet is tested as working on Chrome and downloads items at a 5 second interval.
 
 ![Screenshot of Bandcamp Downloader](image.png)
